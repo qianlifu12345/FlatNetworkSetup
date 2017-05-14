@@ -23,13 +23,13 @@ apt-get install vagrant
 #### 2.2.1 Create vagrantfile
 
 Vagrantfile can be download from  [Vagrantfile](github.com) to your local folder.
-####5.3.2 Bring up the virtual machines
+#### 2.2.2 Bring up the virtual machines
 Running the following command in the folder which contains the Vagrantfile.
 
 ```bash
 vagrant up
 ```
-#### 2.2.2 Login the virtual machine
+#### 2.2.3 Login the virtual machine
 To login the virtual machine:
 
 ```
