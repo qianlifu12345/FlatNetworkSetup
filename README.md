@@ -4,7 +4,7 @@ Virtualbox version:4.3
 Need use VPN to inital the Vagrant images
 
 
-### 1.1 Vagrant installation
+### 1.1 Clone the project
 ```bash
 git clone git@github.com:qianlifu12345/FlatNetworkSetup.git
 ```
